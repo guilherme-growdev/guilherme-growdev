@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I'm Guilherme Niches</h1>
-<h3 align="left">FullStack Jr Developer</h3>
+<h3 align="left">FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme-growdev&label=Profile%20views&color=373aff&style=flat" alt="guilherme-growdev" /></p>
 
@@ -9,7 +9,7 @@
 
 - :briefcase: I’m currently working at [Growdev](https://www.growdev.com.br/)
 - :student: Graduated in Systems Analysis and Development at [UCPel](https://ucpel.edu.br/) and International Relations at [UFPel](https://portal.ufpel.edu.br/)
-- :books: I’m currently learning **NestJs, Devops and MicroServices**
+- :books: I’m currently learning **Devops and MicroServices**
 - 📝 I regularly write articles on [Dev.to](https://dev.to/gniches)
 
 <hr />
